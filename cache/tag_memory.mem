@@ -1,0 +1,3 @@
+# Remove any existing file and create a clean one
+rm -f tag_memory.mem
+for i in {1..1024}; do echo "00000" >> tag_memory.mem; done

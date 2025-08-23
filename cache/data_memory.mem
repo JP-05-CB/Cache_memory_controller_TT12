@@ -1,0 +1,2 @@
+rm -f data_memory.mem
+for i in {1..1024}; do echo "00000000000000000000000000000000" >> data_memory.mem; done

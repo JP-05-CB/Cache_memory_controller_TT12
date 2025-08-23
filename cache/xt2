@@ -1,0 +1,24 @@
+FST info: dumpfile sim_build/cache_controller.fst opened for output.
+DEBUG: Time                10000: cache_ready 0 -> 1, state: 0
+DEBUG: Time                20000: cache_ready 0 -> 1, state: 0
+DEBUG: Time                30000: cache_ready 0 -> 1, state: 0
+DEBUG: Time                40000: cache_ready 0 -> 1, state: 0
+DEBUG: Time                50000: cache_ready 0 -> 1, state: 0
+DEBUG: Time                60000: cache_ready 0 -> 1, state: 0
+DEBUG: Time                70000: cache_ready 0 -> 1, state: 0
+DEBUG: Time                80000: cache_ready 0 -> 1, state: 0
+DEBUG: Time                90000: cache_ready 0 -> 1, state: 0
+DEBUG: Time               100000: cache_ready 0 -> 1, state: 0
+DEBUG: Time               110000: cache_ready 0 -> 1, state: 0
+DEBUG: Time               620000: cache_ready 1 -> 0, state: 0
+DEBUG: Time              1020000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1030000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1040000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1050000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1060000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1070000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1080000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1090000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1100000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1110000: cache_ready 0 -> 1, state: 0
+DEBUG: Time              1120000: cache_ready 0 -> 1, state: 0

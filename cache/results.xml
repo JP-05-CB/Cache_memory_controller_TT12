@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1755924698" />
+    <testcase name="test_debug_cache_ready" classname="test_cache" file="/home/kali/cocotb/cache/test_cache.py" lineno="30" time="0.025539159774780273" sim_time_ns="1010.001" ratio_time="39547.150685723354" />
+    <testcase name="test_simple_ready_check" classname="test_cache" file="/home/kali/cocotb/cache/test_cache.py" lineno="72" time="0.024468421936035156" sim_time_ns="1120.001" ratio_time="45773.3237937405" />
+  </testsuite>
+</testsuites>
