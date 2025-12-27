@@ -75,7 +75,7 @@ brew install icarus-verilog gtkwave
 
 ### 1. Clone and Setup
 ```bash
-git clone <repository-url>
+git clone https://github.com/JP-05-CB/Cache_memory_controller_TT12.git
 cd cocotb/cache
 source py310/bin/activate  # Activate virtual environment
 ```
